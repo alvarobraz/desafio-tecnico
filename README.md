@@ -125,7 +125,7 @@ Abrir outro terminal:
 * ESLint
 * Prettier
 
-## Mobile (Apenas iOS)
+## Mobile
 
 * React-Native
 * Redux
