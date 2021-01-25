@@ -23,7 +23,7 @@ Para rodar esse projeto, você precisará dos seguintes pacotes instalados:
 
 ### 1. Clonar o repositório
 
-    $ git clone https://github.com/alvarobraz/desafio-tecnico-agenda.git
+    $ git clone https://github.com/alvarobraz/desafio-tecnico.git
 
 ### 2. Inicializar o container utilizando DOCKER
 
