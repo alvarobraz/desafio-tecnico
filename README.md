@@ -1,8 +1,8 @@
 #  Sobre
 
-![DesafioAgenda-WEB](https://uploaddeimagens.com.br/images/003/050/799/original/WhatsApp_Image_2021-01-25_at_00.38.41.jpeg?1611546036)
+<img src="https://uploaddeimagens.com.br/images/003/050/799/original/WhatsApp_Image_2021-01-25_at_00.38.41.jpeg?1611546036" width=400>
 
-![DesafioAgenda-APP](https://uploaddeimagens.com.br/images/003/050/800/original/WhatsApp_Image_2021-01-25_at_00.33.40.jpeg?1611546070)
+<img src="https://uploaddeimagens.com.br/images/003/050/800/original/WhatsApp_Image_2021-01-25_at_00.33.40.jpeg?1611546070 width=400>
 
 Esse projeto faz parte do desafio imposto pela empresa Domatech para recutrar um novo dev de react!
 
