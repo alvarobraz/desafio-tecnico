@@ -27,7 +27,8 @@ Para rodar esse projeto, você precisará dos seguintes pacotes instalados:
 
 ### 2. Inicializar o container utilizando DOCKER
 
-    $ docker run --name somename -e POSTGRES_PASSWORD=password -d postgres
+    $ docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
+      
 
 Se você já possuir um container com Postgres, rode:
     
