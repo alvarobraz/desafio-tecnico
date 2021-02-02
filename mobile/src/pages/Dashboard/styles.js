@@ -18,15 +18,12 @@ export const List = styled.FlatList.attrs({
   contentContainerStyle: { padding: 30 },
 })``;
 
-export const Provider = styled(RectButton)`
+export const Provider = styled.View`
   background: #fff;
   border-radius: 4px;
   padding: 10px 10px 10px 10px;
-  flex: 1;
   flex-direction: row;
-  align-items: center;
   justify-content: space-between;
-
   align-items: center;
   margin: 0 10px 20px;
 `;
